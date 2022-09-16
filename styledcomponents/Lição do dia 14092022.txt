@@ -1,0 +1,10 @@
+
+- Utilizando a documentação e a biblioteca styled-components faça um layout 
+criativo em um novo projeto expo! Utilize botões, imagens e outros 
+componentes que conseguir interpretar e aplicar através da documentação do framework.
+Mandem no github (no repositório da disciplina), pode ser feito em dupla e mandem em ambos 
+gits.
+
+
+Nome da lição : styledcomponents
+Feito por: Janine Tiemi Yogi Diniz e Nicolly Evangelista Hernandes dos Santos
