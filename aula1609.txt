@@ -1,0 +1,106 @@
+Windows PowerShell
+Copyright (C) Microsoft Corporation. Todos os direitos reservados.
+
+tiver sido incluído, veja se o caminho está correto e tente novamente.
+No linha:1 caractere:1
++ n
++ ~
+    + CategoryInfo          : ObjectNotFound: (n:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+PS C:\Users\CA\PAM2\styledcomponents> npm install
+npm WARN deprecated source-map-url@0.4.1: See https://github.com/lydell/source-map-url#deprecated
+npm WARN deprecated stable@0.1.8: Modern JS already guarantees Array#sort() is a stable sort, so this library is deprecated. See the compatibility table on MDN: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort#browser_compatibility
+npm WARN deprecated source-map-resolve@0.5.3: See https://github.com/lydell/source-map-resolve#deprecated
+npm WARN deprecated chokidar@2.1.8: Chokidar 2 does not receive security updates since 2019. Upgrade to chokidar 3 with 15x fewer dependencies
+npm WARN deprecated chokidar@2.1.8: Chokidar 2 does not receive security updates since 2019. Upgrade to chokidar 3 with 15x fewer dependencies
+npm WARN deprecated resolve-url@0.2.1: https://github.com/lydell/resolve-url#deprecated
+npm WARN deprecated urix@0.1.0: Please see https://github.com/lydell/urix#deprecated
+npm WARN deprecated querystring@0.2.0: The querystring API is considered Legacy. new code should use the URLSearchParams API instead.
+npm WARN deprecated uuid@3.4.0: Please upgrade  to version 7 or higher.  Older versions may use Math.random() in certain circumstances, which is known 
+to be problematic.  See https://v8.dev/blog/math-random for details.
+npm WARN deprecated uglify-es@3.3.9: support for ECMAScript is superseded by `uglify-js` as of v3.13.0
+npm WARN deprecated svgo@1.3.2: This SVGO version is no longer supported. Upgrade to v2.x.x.
+
+added 1833 packages, and audited 1834 packages in 8m
+
+122 packages are looking for funding
+
+20 vulnerabilities (3 moderate, 14 high, 3 critical)
+
+To address issues that do not require attention, run:
+  npm audit fix
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+Run `npm audit` for details.
+PS C:\Users\CA\PAM2\styledcomponents> npm start
+
+> styledcomponents@1.0.0 start
+> expo start
+
+Starting project at C:\Users\CA\PAM2\styledcomponents
+Starting Metro Bundler
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+█ ▄▄▄▄▄ █ ██▀▀▀▀▄██ ▄▄▄▄▄ █
+█ █   █ █  ▀█ ▀▄ ██ █   █ █
+█ █▄▄▄█ █▀  █▄█▀▄██ █▄▄▄█ █
+█▄▄▄▄▄▄▄█▄█ ▀▄█▄█▄█▄▄▄▄▄▄▄█
+█▄▄██▄ ▄▀██▄█▄▀▄ ███ ▀▄▄ ▄█
+█▀▄▄ ██▄▀  ▄█▀█▀▄ ▀ █▄  ▀██
+█  ▄█▄▄▄▀▀█▀▄▀█▄▀▄▀▄▀▀▄ ▀██
+███▄ ██▄ ▀▀█ ▄█▀▄▄▄█▄▀ ▀███
+█▄▄█▄█▄▄█ █ █▄▀▄▄ ▄▄▄ ▀ ▄▄█
+█ ▄▄▄▄▄ █▀ ▀█▀██▀ █▄█ ▀▀▀██
+█ █   █ █▄ ▄▄ ▀▄█▄▄ ▄▄▀ ▀▀█
+█ █▄▄▄█ █▀▀▄ ███▄██▄▀█▀▀ ██
+█▄▄▄▄▄▄▄█▄█████▄████▄▄▄▄▄▄█
+
+› Metro waiting on exp://192.168.2.49:19000
+› Scan the QR code above with Expo Go (Android) or the Camera app (iOS)
+
+› Press a │ open Android
+› Press w │ open web
+
+› Press r │ reload app
+› Press m │ toggle menu
+
+› Press ? │ show all commands
+
+Logs for your project will appear below. Press Ctrl+C to exit.
+Starting Webpack on port 19006 in development mode.
+‼ ｢wds｣: transportMode is an experimental option, meaning its usage could potentially change without warning
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+█ ▄▄▄▄▄ █ ██▀▀▀▀▄██ ▄▄▄▄▄ █
+█ █   █ █  ▀█ ▀▄ ██ █   █ █
+█ █▄▄▄█ █▀  █▄█▀▄██ █▄▄▄█ █
+█▄▄▄▄▄▄▄█▄█ ▀▄█▄█▄█▄▄▄▄▄▄▄█
+█▄▄██▄ ▄▀██▄█▄▀▄ ███ ▀▄▄ ▄█
+█▀▄▄ ██▄▀  ▄█▀█▀▄ ▀ █▄  ▀██
+█  ▄█▄▄▄▀▀█▀▄▀█▄▀▄▀▄▀▀▄ ▀██
+███▄ ██▄ ▀▀█ ▄█▀▄▄▄█▄▀ ▀███
+█▄▄█▄█▄▄█ █ █▄▀▄▄ ▄▄▄ ▀ ▄▄█
+█ ▄▄▄▄▄ █▀ ▀█▀██▀ █▄█ ▀▀▀██
+█ █   █ █▄ ▄▄ ▀▄█▄▄ ▄▄▀ ▀▀█
+█ █▄▄▄█ █▀▀▄ ███▄██▄▀█▀▀ ██
+█▄▄▄▄▄▄▄█▄█████▄████▄▄▄▄▄▄█
+
+› Metro waiting on exp://192.168.2.49:19000
+› Scan the QR code above with Expo Go (Android) or the Camera app (iOS)
+
+› Web is waiting on http://localhost:19006
+
+› Press a │ open Android
+› Press w │ open web
+
+› Press r │ reload app
+› Press m │ toggle menu
+
+› Press ? │ show all commands
+
+› Open in the web browser...
+› Press ? │ show all commands
+› Open in the web browser...
+› Press ? │ show all commands
+› Open in the web browser...
+› Press ? │ show all commands
